@@ -11,6 +11,7 @@ $ sudo apt install mosquitto
 $ sudo apt install mosquitto-clients 
 $ sudo apt install libmosquitto-dev
 $ sudo apt install libmosquitto1
+$ sudo apt-get install libreadline-dev
 ```
 
 ## Set-up
